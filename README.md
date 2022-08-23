@@ -1,1 +1,1 @@
-# python-flask-jwt
+Follow this article: https://www.bacancytechnology.com/blog/flask-jwt-authentication
